@@ -42,7 +42,7 @@ public class ControlFlow {
                 }
             }
             else {
-
+                System.out.println("Not 10");
             }
         }
     }
