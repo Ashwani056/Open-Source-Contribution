@@ -42,7 +42,7 @@ public class ControlFlow {
                 }
             }
             else {
-
+                System.out.println("If a not equal to ten then print this line");
             }
         }
     }
